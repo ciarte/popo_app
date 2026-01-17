@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:popo_app/page_0ne.dart';
-import 'package:popo_app/page_two.dart';
+import 'package:popo_app/pages/page_0ne.dart';
+import 'package:popo_app/pages/page_two.dart';
 
 void main() {
   runApp(const MyApp());
